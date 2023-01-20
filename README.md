@@ -8,8 +8,9 @@ I am a self-taught, full-stack engineer who has been working with a large variet
 
 *   🌍  I'm based in New Delhi
 *   🖥️  See my portfolio at [My Personal Website](http://soubhik.chatterjee.pw/)
-*   ✉️  You can contact me at [soubhik@chatterjee.pw](mailto:soubhik@chatterjee.pw)<a href="https://www.github.com/soubhikchatterjee" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/soubhikchatterjee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tweetsoubhik" target="_blank" rel="noreferrer"><img
+*   ✉️  You can contact me at [soubhik@chatterjee.pw](mailto:soubhik@chatterjee.pw)<a href="https://www.github.com/soubhikchatterjee" target="_blank" rel="noreferrer">
+  
+  <img src="https://img.shields.io/github/followers/soubhikchatterjee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tweetsoubhik" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/tweetsoubhik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
                 
